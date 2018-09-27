@@ -1,2 +1,2 @@
 # Client-Server-
-Client-Server program implementation in c++(socket programming)
+Client-Server program implementation in c(socket programming)
